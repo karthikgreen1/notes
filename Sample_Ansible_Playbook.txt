@@ -1,8 +1,8 @@
 
 http://www.mydailytutorials.com/using-ansible-find-module-search-filesfolder/
 https://codereviewvideos.com/course/ansible-tutorial/video/ansible-files-for-beginners
-ttps://stackoverflow.com/questions/34788520/ansible-get-files-list-from-local-directory
-
+https://stackoverflow.com/questions/34788520/ansible-get-files-list-from-local-directory
+http://www.mydailytutorials.com/ansible-template-module-examples/
 ---
 - hosts: localhost
   tasks:
